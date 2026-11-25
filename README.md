@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Zet%20Donaue%20Samson&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Cloud%20%26amp%3B%20DevOps%20Engineer&descFontSize=20&descAlignY=60&theme=tokyonight" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Zet%20Donaue%20Samson&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%26amp%3B%20Cloud%20Enthusiast%20%7C%20Kubernetes,%20Terraform%20%26amp%3B%20Observability&descFontSize=18&descAlignY=60&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,9 +21,9 @@
 
 ### 👨‍💻 About Me
 
-I build full-lifecycle, production-ready applications and the cloud-native infrastructure behind them — ranging from **4-layer Terraform Kubernetes platforms** and **C# Clean Architecture APIs** to **event-driven telemetry pipelines** and **applied AI agents**.
+I am a **Software Developer & Cloud Enthusiast** bridging full-lifecycle application development with cloud-native infrastructure. My work ranges from **C# Clean Architecture & Python APIs** to **4-layer Terraform Kubernetes platforms** and **production-grade telemetry pipelines**.
 
-- 🔭 **Focus**: Cloud-native architectures (Azure AKS / GKE), GitOps automation, and resilient distributed backends.
+- 🔭 **Core Pillars**: **Kubernetes** (AKS / GKE), **Terraform** IaC with GitOps (ArgoCD), and real-time **Observability** (Prometheus & Grafana Loki).
 - ⚡ **Engineering Mantra**: Code to Cloud — write clean code, containerize securely, automate deployment, and monitor with zero mock data.
 - 📍 **Location**: Pasig City, Metro Manila (UTC+8)
 
