@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=230&section=header&text=Zet%20Donaue%20Samson&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%26amp%3B%20Cloud%20Enthusiast%20%7C%20Kubernetes,%20Terraform%20%26amp%3B%20Observability&descSize=18&fontColor=ffffff&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Zet%20Donaue%20Samson&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%26amp%3B%20Cloud%20Enthusiast%20%7C%20Kubernetes,%20Terraform%20%26amp%3B%20Observability&descFontSize=18&descAlignY=60&theme=tokyonight" width="100%"/>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-fauxx.is--a.dev-161b22?style=flat&logo=googlechrome&logoColor=00f2fe)](https://fauxx.is-a.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zet%20Samson-161b22?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/zet02)
